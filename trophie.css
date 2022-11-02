@@ -1,0 +1,56 @@
+h1{text-align: center; color: white; font-family: blackchancery;}
+h2,td,th{color: white; font-family: calibro;}
+p {color: white; font-family: calibro; padding-left: 80px; padding-right: 65px;}
+#id1,#id2,#id3 {color: white;}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-image: url("2247608.jpg") ;
+  background-color: #cccccc;
+  background-size: 1920px 1080px;
+}
+footer{
+  text-align: center;
+}
+.site-footer {
+  background-color: transparent;
+  text-align: center;
+  margin: 10px 0;
+  padding: 10px 0;
+}
+
+#social-wrapper {
+  text-align: center;
+}
+
+/*Social Media Icons*/
+.social-wrapper {
+  text-align: center;
+}
+
+.social-wrapper ul li {
+  display: inline;
+  margin: 0 5px;
+}
+
+.twitter-icon,
+.facebook-icon,
+.instagram-icon,
+.youtube-icon{
+  margin-top: .625em;
+  width: 40px;
+  height: 40px;
+  opacity: .6;
+  filter: alpha(opacity=60); 
+  border-radius: 25px;
+}
+
+.twitter-icon:hover,
+.facebook-icon:hover,
+.instagram-icon:hover,
+.youtube-icon:hover{
+  opacity: 1.0;
+  filter: alpha(opacity=100);
+}
