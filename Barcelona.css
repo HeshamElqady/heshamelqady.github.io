@@ -9,6 +9,6 @@ p {color: white; font-family: calibro; padding-left: 80px; padding-right: 65px;}
 body {
   background-image: url("483251.jpg") ;
   background-color: #cccccc;
-  background-size: 1920px 1080px;
+  background-size: cover;
 }
 
