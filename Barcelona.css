@@ -7,6 +7,7 @@ p {color: white; font-family: calibro; padding-left: 80px; padding-right: 65px;}
   margin-right: auto;
 }
 body {
+  padding-left: 25px;
   background-image: url("483251.jpg") ;
   background-color: #cccccc;
   background-size: cover;
